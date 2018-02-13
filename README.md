@@ -12,7 +12,7 @@ You're going to be building a `Person` class that accepts a person's name when a
 
 ## Instructions
 
-Open this lab with `learn open` and run the tests with `learn`.
+run the tests with `rspec`.
 
 #### 1. `Person#initialize` with a Name
 
