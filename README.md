@@ -24,6 +24,6 @@ Define a `Dog` class in `lib/dog.rb` that provides an `#initialize` method that 
 
 Additionally, `Dog#initialize` should accept a second optional argument for the dog's breed stored in an instance variable `@breed`. When none is provided, it should default to "Mutt".
 
-Submit your solution with `learn submit`.
+
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-object-initialize-lab' title='Ruby Object Initialize Lab'>Ruby Object Initialize Lab</a> on Learn.co and start learning to code for free.</p>
